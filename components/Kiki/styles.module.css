@@ -191,3 +191,9 @@ width:8px; height:8px; box-shadow:32px 32px 0 #ECF0F1,40px 32px 0 #ECF0F1,32px 4
   -o-transform:      scale(.5);
   transform:         scale(.5);
 }
+
+.space {
+  position:fixed;
+  top:30%;
+  right: 20%;
+}
